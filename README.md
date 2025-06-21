@@ -1,2 +1,1 @@
-# warehouse-security
-smart warehouse security using rfid 
+Filed for patent protection; currently under evaluation by the patent office.
